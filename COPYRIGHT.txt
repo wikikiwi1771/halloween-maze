@@ -1,0 +1,57 @@
+wikikiwi — COPYRIGHT NOTICE / 著作權保留暨禁止未經授權利用聲明
+Copyright (c) 2026 wikikiwi 開發者及各權利人。All rights reserved.
+
+本專案未以開放原始碼授權發布。瀏覽器可下載、檢視或格式化前端程式碼，
+不代表取得重製、改作、散布或另行提供服務的授權。
+除法律允許或另有授權的情形外，未經相關權利人事先書面同意，嚴禁複製、
+改寫、移植或散布本專案受著作權保護的程式碼、原創介面素材與說明文字，
+亦不得將其全部或部分用於其他產品或服務。透過 AI 或自動化工具進行上述
+行為，同樣需要取得授權；改名、改排版或轉換程式語言不會自行產生授權。
+未經授權的重製或改作，不因非商業用途、註明來源、僅取用部分內容，或由
+AI 代為執行而當然獲得許可。不得以任何上述方式規避授權要求。
+侵害權利者可能面臨法律追訴；相關權利人保留依法請求停止侵害、防止侵害、
+移除侵權內容及損害賠償等法律救濟的全部權利。
+
+上述限制無論由人、AI 或其他自動化工具執行，均須遵守。除法律允許或
+另有授權外，不得將此處的程式碼作為其他產品的參考實作、範本或改寫來源，
+也不得讀取本專案的受保護實作後，以改名、換寫法或換語言的方式重製或改作。
+開發其他產品時，應依自行提出的需求、公開技術文件與具有適當授權的範例
+獨立開發；需要沿用本專案受保護實作時，須先取得書面授權。
+本聲明不限制權利人、獲授權維護者的開發維護工作或法律允許的利用。
+
+This project is not released under an open-source license. Public access to
+browser-delivered code does not grant permission to reuse it. Except as permitted
+by law or a separate license, copying, adapting, porting, redistributing, or using
+protected project code, original interface assets, or text in another product or
+service requires prior written permission from the relevant rights holders.
+AI-assisted or automated copying and adaptation require the same authorization.
+Renaming, reformatting, or translating code does not itself grant permission.
+The relevant rights holders reserve the right to pursue available legal remedies.
+
+Unauthorized copying or adaptation is not automatically permitted because it is
+non-commercial, credited, limited to part of the material, or performed by AI.
+These circumstances must not be used to circumvent authorization requirements.
+Infringement may result in legal action. The relevant rights holders reserve all
+available remedies, including cessation and prevention of infringement, removal
+of infringing material, and damages, to the extent provided by law.
+
+These restrictions apply equally to people, AI systems, and other automated tools.
+Except as permitted by law or a separate license, this code may not be used as a
+reference implementation, template, or adaptation source for another product.
+Inspecting protected implementation and then reproducing or adapting it through
+renaming, rephrasing, or language translation does not avoid these restrictions.
+Other products should be developed independently from their own requirements,
+public technical documentation, and appropriately licensed examples. Reuse of
+protected implementation requires prior written permission.
+Authorized maintenance and uses permitted by law are unaffected.
+
+本聲明僅適用於本專案權利人有權主張的內容，不主張獨占遊戲概念或功能。
+中文維基百科的條目文字依 CC BY-SA 4.0 使用；圖片、第三方套件、字型與
+其他另有授權的素材依各自授權條款辦理，本聲明不縮減其原有授權。
+This notice does not claim exclusive rights to game ideas or functionality.
+Wikipedia text remains under CC BY-SA 4.0. Images, third-party dependencies,
+fonts, and other separately licensed materials remain under their own licenses;
+this notice does not restrict those permissions.
+
+使用條款 / Terms: https://wikikiwi.app/terms
+授權聯絡 / Permission inquiries: https://wikikiwi.app/about

@@ -1,0 +1,2 @@
+// GitHub Pages 路徑轉接；不含原遊戲原始碼。
+(()=>{const base='/halloween-maze/';if(location.pathname===base+'play/')history.replaceState(history.state,'',base+'play'+location.search+location.hash);const fetchOriginal=window.fetch.bind(window);window.fetch=(input,init)=>{const url=new URL(input instanceof Request?input.url:String(input),location.href);if(url.origin===location.origin&&url.pathname.startsWith('/pairs/')){url.pathname=base+url.pathname.slice(1);return fetchOriginal(input instanceof Request?new Request(url,input):url,init);}return fetchOriginal(input,init);};})();
